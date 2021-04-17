@@ -50,7 +50,6 @@ session_start();
 
 	if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
 	?>
-
 	<section class="left">
 		<ul>
 			<li><a href="menu.php">Menu</a></li>

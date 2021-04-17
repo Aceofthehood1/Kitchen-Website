@@ -48,7 +48,7 @@
 
 
 	<footer>
-		&copy; Kate's Kitchen 2017
+		&copy; Kate's Kitchen <?php echo date('Y') ?>
 	</footer>
 </body>
 </html>

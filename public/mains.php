@@ -22,9 +22,8 @@
 			<li>Menu
 				<ul>
 					<li><a href="/starters.php">Starters</a></li>
-					<li><a class="current" href="/mains.php">Mains</a></li>
+					<li><a href="/mains.php">Mains</a></li>
 					<li><a href="/dessert.php">Dessert</a></li>
-
 				</ul>
 			</li>
 			<li><a href="/about.html">About Us</a></li>
